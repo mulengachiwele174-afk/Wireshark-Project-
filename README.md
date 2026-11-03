@@ -381,7 +381,7 @@ Aspiring Security Analyst | Network Security
 
 I am building hands-on skills in network traffic analysis and incident investigation, with a focus on Wireshark, protocol analysis and threat detection.
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub:https://github.com/mulengachiwele174-afk
 - LinkedIn:www.linkedin.com/in/mulenga-chiwele-712a64365
 - Email: Mulengachiwele174@gmail.com
 

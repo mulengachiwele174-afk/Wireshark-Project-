@@ -1,16 +1,19 @@
-<h1 align="center">Wireshark Network Forensics Labs</h1>
+<div align="center">
 
-<p align="center">
-  <b>Hands-on packet analysis investigations in a simulated security monitoring environment</b><br>
-  by Mulenga Chiwele
-</p>
+# 🔍 Wireshark Network Forensics Labs
 
-<p align="center">
-  <img alt="Tool" src="https://img.shields.io/badge/Tool-Wireshark-1679A7?style=flat-square">
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Network%20Forensics-444?style=flat-square">
-  <img alt="Role" src="https://img.shields.io/badge/Role-Security%20Analyst-8B1A1A?style=flat-square">
-  <img alt="Labs" src="https://img.shields.io/badge/Labs%20completed-6-2E7D32?style=flat-square">
-</p>
+### Hands-on packet analysis investigations in a simulated security monitoring environment
+
+**by Mulenga Chiwele**
+
+<img alt="Tool" src="https://img.shields.io/badge/Tool-Wireshark-1679A7?style=for-the-badge">
+<img alt="Focus" src="https://img.shields.io/badge/Focus-Network%20Forensics-444?style=for-the-badge">
+<img alt="Role" src="https://img.shields.io/badge/Role-Security%20Analyst-8B1A1A?style=for-the-badge">
+<img alt="Labs" src="https://img.shields.io/badge/Labs%20completed-6-2E7D32?style=for-the-badge">
+
+[Overview](#overview) · [Labs](#labs-summary) · [Cheat Sheet](#wireshark-filter-cheat-sheet) · [Skills](#skills-demonstrated) · [Contact](#about-the-author)
+
+</div>
 
 ---
 
@@ -102,10 +105,10 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="85%">
+  <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="85%">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="85%">
+  <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="85%">
 </p>
 
 </details>
@@ -140,10 +143,10 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/screenshots/lab4-1.png" alt="Lab 4: screenshot 1" width="85%">
+  <img src="screenshots/lab4-1.png" alt="Lab 4: screenshot 1" width="85%">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/screenshots/lab4-2.png" alt="Lab 4: screenshot 2" width="85%">
+  <img src="screenshots/lab4-2.png" alt="Lab 4: screenshot 2" width="85%">
 </p>
 
 </details>
@@ -177,10 +180,10 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/screenshots/lab5-1.png" alt="Lab 5: screenshot 1" width="85%">
+  <img src="screenshots/lab5-1.png" alt="Lab 5: screenshot 1" width="85%">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/screenshots/lab5-2.png" alt="Lab 5: screenshot 2" width="85%">
+  <img src="screenshots/lab5-2.png" alt="Lab 5: screenshot 2" width="85%">
 </p>
 
 </details>
@@ -212,10 +215,10 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/screenshots/lab6-1.png" alt="Lab 6: screenshot 1" width="85%">
+  <img src="screenshots/lab6-1.png" alt="Lab 6: screenshot 1" width="85%">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/screenshots/lab6-2.png" alt="Lab 6: screenshot 2" width="85%">
+  <img src="screenshots/lab6-2.png" alt="Lab 6: screenshot 2" width="85%">
 </p>
 
 </details>
@@ -250,10 +253,10 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/screenshots/lab7-1.png" alt="Lab 7: screenshot 1" width="85%">
+  <img src="screenshots/lab7-1.png" alt="Lab 7: screenshot 1" width="85%">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/screenshots/lab7-2.png" alt="Lab 7: screenshot 2" width="85%">
+  <img src="screenshots/lab7-2.png" alt="Lab 7: screenshot 2" width="85%">
 </p>
 
 </details>
@@ -286,10 +289,10 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/screenshots/lab8-1.png" alt="Lab 8: screenshot 1" width="85%">
+  <img src="screenshots/lab8-1.png" alt="Lab 8: screenshot 1" width="85%">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/screenshots/lab8-2.png" alt="Lab 8: screenshot 2" width="85%">
+  <img src="screenshots/lab8-2.png" alt="Lab 8: screenshot 2" width="85%">
 </p>
 
 </details>
@@ -356,22 +359,25 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 
 ## Repository Structure
 
-```
-.
-├── README.md
-└── screenshots/
-    ├── lab3-1.png
-    ├── lab3-2.png
-    ├── lab4-1.png
-    ├── lab4-2.png
-    ├── lab5-1.png
-    ├── lab5-2.png
-    ├── lab6-1.png
-    ├── lab6-2.png
-    ├── lab7-1.png
-    ├── lab7-2.png
-    ├── lab8-1.png
-    └── lab8-2.png
+The repository contains this `README.md` with all the lab write-ups, and a `screenshots` folder with the evidence for each lab:
+
+- **Lab 3:** Identify the Attacker's IP
+- **Lab 4:** Follow TCP Stream
+- **Lab 5:** Follow TCP Stream, Part 2
+- **Lab 6:** HTTP Plaintext Credentials
+- **Lab 7:** Brute Force Catch
+- **Lab 8:** VoIP Call Replay
+
+```mermaid
+graph LR
+    A[Wireshark Network Forensics Labs] --> B[README.md]
+    A --> C[screenshots]
+    C --> D[Lab 3: Identify the Attacker's IP]
+    C --> E[Lab 4: Follow TCP Stream]
+    C --> F[Lab 5: Follow TCP Stream, Part 2]
+    C --> G[Lab 6: HTTP Plaintext Credentials]
+    C --> H[Lab 7: Brute Force Catch]
+    C --> I[Lab 8: VoIP Call Replay]
 ```
 
 ## About the Author
@@ -381,9 +387,9 @@ Aspiring Security Analyst | Network Security
 
 I am building hands-on skills in network traffic analysis and incident investigation, with a focus on Wireshark, protocol analysis and threat detection.
 
-- GitHub:https://github.com/mulengachiwele174-afk
-- LinkedIn:www.linkedin.com/in/mulenga-chiwele-712a64365
-- Email: Mulengachiwele174@gmail.com
+- GitHub: [mulengachiwele174-afk](https://github.com/mulengachiwele174-afk)
+- LinkedIn: [Mulenga Chiwele](https://www.linkedin.com/in/mulenga-chiwele-712a64365)
+- Email: [Mulengachiwele174@gmail.com](mailto:Mulengachiwele174@gmail.com)
 
 ## Disclaimer
 

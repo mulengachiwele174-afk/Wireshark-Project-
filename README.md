@@ -99,19 +99,6 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 
 **What I learned:** Port scans are noisy. Counting SYN packets per source is a fast way to find the scanner.
 
-<details>
-<summary><b>View screenshots</b></summary>
-
-<br>
-
-<p align="center">
-  <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="85%">
-</p>
-<p align="center">
-  <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="85%">
-</p>
-
-</details>
 
 ---
 
@@ -142,15 +129,6 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 
 <br>
 
-<p align="center">
-  <img src="screenshots/lab4-1.png" alt="Lab 4: screenshot 1" width="85%">
-</p>
-<p align="center">
-  <img src="screenshots/lab4-2.png" alt="Lab 4: screenshot 2" width="85%">
-</p>
-
-</details>
-
 ---
 
 ### Lab 5: Follow TCP Stream, Part 2
@@ -179,14 +157,6 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 
 <br>
 
-<p align="center">
-  <img src="screenshots/lab5-1.png" alt="Lab 5: screenshot 1" width="85%">
-</p>
-<p align="center">
-  <img src="screenshots/lab5-2.png" alt="Lab 5: screenshot 2" width="85%">
-</p>
-
-</details>
 
 ---
 
@@ -213,13 +183,6 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 <summary><b>View screenshots</b></summary>
 
 <br>
-
-<p align="center">
-  <img src="screenshots/lab6-1.png" alt="Lab 6: screenshot 1" width="85%">
-</p>
-<p align="center">
-  <img src="screenshots/lab6-2.png" alt="Lab 6: screenshot 2" width="85%">
-</p>
 
 </details>
 
@@ -252,13 +215,6 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 
 <br>
 
-<p align="center">
-  <img src="screenshots/lab7-1.png" alt="Lab 7: screenshot 1" width="85%">
-</p>
-<p align="center">
-  <img src="screenshots/lab7-2.png" alt="Lab 7: screenshot 2" width="85%">
-</p>
-
 </details>
 
 ---
@@ -288,12 +244,6 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 
 <br>
 
-<p align="center">
-  <img src="screenshots/lab8-1.png" alt="Lab 8: screenshot 1" width="85%">
-</p>
-<p align="center">
-  <img src="screenshots/lab8-2.png" alt="Lab 8: screenshot 2" width="85%">
-</p>
 
 </details>
 

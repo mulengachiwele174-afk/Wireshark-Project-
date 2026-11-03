@@ -330,7 +330,7 @@ I am building hands-on skills in network traffic analysis and incident investiga
 
 - GitHub: [mulengachiwele174-afk](https://github.com/mulengachiwele174-afk)
 - LinkedIn: [Mulenga Chiwele](https://www.linkedin.com/in/mulenga-chiwele-712a64365)
-- Email: [Mulengachiwele174@gmail.com](mailto:Mulengachiwele174@gmail.com)
+- Email:[Mulengachiwele174@gmail.com](mailto:Mulengachiwele174@gmail.com)
 
 ## Disclaimer
 

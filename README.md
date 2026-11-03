@@ -124,11 +124,6 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 
 **What I learned:** Anything sent over an unencrypted protocol can be read by anyone who captures it.
 
-<details>
-<summary><b>View screenshots</b></summary>
-
-<br>
-
 ---
 
 ### Lab 5: Follow TCP Stream, Part 2
@@ -152,12 +147,6 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 
 **What I learned:** Hiding information in page source is not security. Anything the server sends can be read on the wire.
 
-<details>
-<summary><b>View screenshots</b></summary>
-
-<br>
-
-
 ---
 
 ### Lab 6: HTTP Plaintext Credentials
@@ -178,13 +167,6 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 - Anyone on the same network path, or with access to a mirror port, could collect them.
 
 **What I learned:** Login pages must use HTTPS. HTTP gives no protection for credentials.
-
-<details>
-<summary><b>View screenshots</b></summary>
-
-<br>
-
-</details>
 
 ---
 
@@ -210,13 +192,6 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 
 **What I learned:** Many failed logins from one source followed by a success is a key detection pattern.
 
-<details>
-<summary><b>View screenshots</b></summary>
-
-<br>
-
-</details>
-
 ---
 
 ### Lab 8: VoIP Call Replay
@@ -238,14 +213,6 @@ The scenarios cover reconnaissance, plaintext data exposure, credential theft, b
 - Unencrypted RTP can be reconstructed and played back from a capture.
 
 **What I learned:** Voice traffic needs encryption (SRTP and TLS) like any other sensitive data.
-
-<details>
-<summary><b>View screenshots</b></summary>
-
-<br>
-
-
-</details>
 
 ---
 

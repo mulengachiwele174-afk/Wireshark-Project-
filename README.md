@@ -338,6 +338,27 @@ All labs were completed in a safe, simulated training environment provided by [N
 
 ---
 
+---
+
+<div align="center">
+
+### © 2026 Mulenga Chiwele · All Rights Reserved
+
+This work is the original writing, structure and analysis of **Mulenga Chiwele**.
+You are welcome to read it and link to it. Please do not copy, republish or present it as your own without written permission.
+
+<sub>**Wireshark Network Forensics Labs** · First published November 2026 · Document ID: `MC-WNFL-2026-1103`</sub>
+
+<sub>Permissions and enquiries: [Mulengachiwele174@gmail.com](mailto:Mulengachiwele174@gmail.com)</sub>
+
+</div>
+
+<!--
+Original work by Mulenga Chiwele (github.com/mulengachiwele174-afk)
+First published: 2026-11-03 | Document ID: MC-WNFL-2026-1103
+Unauthorized copying or republishing without credit is not permitted.
+-->
+
 <p align="center">
   <sub>Thanks for reading.</sub>
 </p>

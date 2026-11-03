@@ -380,6 +380,19 @@ graph LR
     C --> I[Lab 8: VoIP Call Replay]
 ```
 
+Screenshots
+
+Evidence for each lab, in order:
+
+<b>Labs</b>
+<p align="center"> <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="48%"> <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="48%"> </p>
+<p align="center"> <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="48%"> <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="48%"> </p>
+<p align="center"> <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="48%"> <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="48%"> </p>
+<p align="center"> <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="48%"> <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="48%"> </p>
+<p align="center"> <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="48%"> <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="48%"> </p>
+<p align="center"> <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="48%"> <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="48%"> </p>
+<p align="center"> <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="48%"> <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="48%"> </p>
+
 ## About the Author
 
 **Mulenga Chiwele**

@@ -385,13 +385,24 @@ Screenshots
 Evidence for each lab, in order:
 
 <b>Labs</b>
-<p align="center"> <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="48%"> <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="48%"> </p>
-<p align="center"> <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="48%"> <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="48%"> </p>
-<p align="center"> <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="48%"> <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="48%"> </p>
-<p align="center"> <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="48%"> <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="48%"> </p>
-<p align="center"> <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="48%"> <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="48%"> </p>
-<p align="center"> <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="48%"> <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="48%"> </p>
-<p align="center"> <img src="screenshots/lab3-1.png" alt="Lab 3: screenshot 1" width="48%"> <img src="screenshots/lab3-2.png" alt="Lab 3: screenshot 2" width="48%"> </p>
+<p align="center">
+  <img src="https://github.com/mulengachiwele174-afk/Wireshark-Project-/blob/9a648a79cfa7b8435bafb0b028ed03520223e88e/Screenshots/imag/3.png?raw=true" alt="Wireshark Screenshot 1" width="48%">
+  <img src="https://github.com/mulengachiwele174-afk/Wireshark-Project-/blob/9a648a79cfa7b8435bafb0b028ed03520223e88e/Screenshots/imag/HTTP%203.png?raw=true" alt="HTTP Traffic Analysis" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/mulengachiwele174-afk/Wireshark-Project-/blob/9a648a79cfa7b8435bafb0b028ed03520223e88e/Screenshots/imag/Screenshot%202026-11-03%20004655.png?raw=true" alt="Wireshark Screenshot 3" width="48%">
+  <img src="https://github.com/mulengachiwele174-afk/Wireshark-Project-/blob/9a648a79cfa7b8435bafb0b028ed03520223e88e/Screenshots/imag/brute%20force%20b.png?raw=true" alt="Brute Force Analysis 1" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/mulengachiwele174-afk/Wireshark-Project-/blob/9a648a79cfa7b8435bafb0b028ed03520223e88e/Screenshots/imag/brute%20force.png?raw=true" alt="Brute Force Analysis 2" width="48%">
+  <img src="https://github.com/mulengachiwele174-afk/Wireshark-Project-/blob/9a648a79cfa7b8435bafb0b028ed03520223e88e/Screenshots/imag/project%202.png?raw=true" alt="Wireshark Project 2" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/mulengachiwele174-afk/Wireshark-Project-/blob/9a648a79cfa7b8435bafb0b028ed03520223e88e/Screenshots/imag/viop.png?raw=true" alt="VoIP Traffic Analysis" width="48%">
+</p>
 
 ## About the Author
 
